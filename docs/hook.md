@@ -1,4 +1,4 @@
-# Setup
+p# Setup
 
 For direnv to work properly it needs to be hooked into the shell. Each shell
 has its own extension mechanism.
